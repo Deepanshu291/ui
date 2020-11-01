@@ -1,8 +1,6 @@
 @media only screen and (max-width: 768px){
-    #header{
-      
-        background-image: none;
-         
+    #header{ 
+        background-image: none;    
     }
      
     .container{
@@ -43,4 +41,16 @@
     .about-text h3{
         font-size: 14px;
     }
+
+    .cont-lf-col{
+        flex-basis: 100%;
+    }
+    .cont-rg-col img {
+        display: none;
+    }
+    .contact-row .line{
+        text-align: right;
+        
+    }
+   
 }
