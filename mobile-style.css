@@ -17,7 +17,10 @@
         margin-top: 70px;
     }
     h1{
-        font-size: 25px;
+        font-size: 35px;
+    }
+    p{
+        font-size: 20px;
     }
     #menuBtn{
         width: 40px;
