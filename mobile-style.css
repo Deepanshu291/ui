@@ -1,0 +1,46 @@
+@media only screen and (max-width: 768px){
+    #header{
+      
+        background-image: none;
+         
+    }
+     
+    .container{
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    
+    .logo{
+        margin-top: 10px;
+        width: 80px;
+    }
+    
+    .header-text{
+        margin-top: 70px;
+    }
+    h1{
+        font-size: 25px;
+    }
+    #menuBtn{
+        width: 40px;
+        right: 65px;
+    }
+    .common-btn{
+        padding: 11px 18px;
+    }
+    .about-lf-col,.about-rg-col{
+        flex-basis: 100%;
+    
+    }
+    .about-text{
+        margin: 50px ;
+    }
+    
+    .about-text h2{
+        font-size: 16px;
+    }
+    
+    .about-text h3{
+        font-size: 14px;
+    }
+}
