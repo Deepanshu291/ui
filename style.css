@@ -188,3 +188,34 @@ form input{
  .msg{
     height: 20vh;
 }
+
+/*Social-icons*/
+.social-icons{
+    width: 50px;
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.social-icons img{
+display: block;
+width: 20px;
+margin: 0 auto 20px;
+cursor: pointer;
+}
+
+#topBtn{
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	font-size: 22px;
+	width: 50px;
+	height: 50px;
+  background: #f67c92 ;
+	color: white;
+	border: none;
+	cursor: pointer;
+	display: none;
+  }
